@@ -1,3 +1,1 @@
-# helloworld
-moje pierwsze rezpozytorium
-i love :pizza: 
+git init 
