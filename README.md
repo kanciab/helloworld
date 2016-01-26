@@ -1,3 +1,3 @@
-git init 
-git init <directory>
+
+git init <kanciab>
 
